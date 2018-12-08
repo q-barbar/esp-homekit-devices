@@ -229,8 +229,8 @@
     ##__VA_ARGS__
 
 /* Switch Initial State
- 0. OFF
- 1. ON
+ 0. ON
+ 1. OFF
  2. Last state
  3. Opposite to last state
  */
